@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611383427663",
+    "project_id": "azc-dev",
+    "storage_bucket": "azc-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611383427663:android:55a240b1a780b376ab603a",
+        "android_client_info": {
+          "package_name": "com.az.azc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75CwJ0Bw65z5ToD-dtmKdc0g_uGkuPgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
