@@ -1,4 +1,4 @@
-package com.example.azc
+package com.az.azc
 
 import io.flutter.embedding.android.FlutterActivity
 
