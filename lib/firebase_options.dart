@@ -59,10 +59,13 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBrFIoNkrP4nqqyme_-2nbAwWEfz59e9kk',
-    appId: '1:611383427663:ios:898e7c6d8636bb9bab603a',
+    appId: '1:611383427663:ios:90b95164378bae30ab603a',
     messagingSenderId: '611383427663',
     projectId: 'azc-dev',
     storageBucket: 'azc-dev.firebasestorage.app',
-    iosBundleId: 'com.example.azc',
+    androidClientId: '611383427663-80p3o6qcfbuto9c4ne63godippmp1db8.apps.googleusercontent.com',
+    iosClientId: '611383427663-m5n8jl5a1qe90h8aip5ap0hhp3na44t1.apps.googleusercontent.com',
+    iosBundleId: 'com.az.azc',
   );
+
 }
